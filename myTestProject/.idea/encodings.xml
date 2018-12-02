@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/jvm/annotation/processor/BADLY_NAMED_CODE.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/jvm/annotation/processor/NameCheckProcessor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/jvm/annotation/processor/NameChecker.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/remoteExecution/ByteUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/remoteExecution/ClassModifier.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/remoteExecution/HackSystem.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/remoteExecution/JavaClassExecuter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/vmloading/MethodHandleTest.java" charset="GBK" />
+  </component>
+</project>
